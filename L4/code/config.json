@@ -1,0 +1,9 @@
+{
+    "blacklistpublisher":[
+        "Valve Corporation",
+        "Microsoft Corporation"
+    ],
+    "blacklistdir":[
+        "D:\\Game\\Steam"
+    ]
+}

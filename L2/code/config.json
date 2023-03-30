@@ -1,0 +1,7 @@
+{
+    "blacklistedapps":[
+        "C:\\Windows\\system32\\calc.exe",
+        "C:\\Windows\\system32\\NOTEPAD.exe",
+        "C:\\Windows\\system32\\mspaint.exe"
+    ]
+}

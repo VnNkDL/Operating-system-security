@@ -1,0 +1,56 @@
+{
+    "NVIDIA Corporation": [
+        "NVIDIA Графический драйвер 517.48",
+        "NVIDIA GeForce Experience 3.26.0.131",
+        "NVIDIA Системное программное обеспечение PhysX 9.21.0713",
+        "NVIDIA FrameView SDK 1.3.8107.31782123",
+        "NVIDIA Аудиодрайвер HD 1.3.39.14"
+    ],
+    "Корпорация Майкрософт": [
+        "NVIDIA Аудиодрайвер HD 1.3.39.14",
+        "Среда выполнения Microsoft Edge WebView2 Runtime",
+        "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501"
+    ],
+    "Blackmagic Design": [
+        "DaVinci Resolve Control Panels",
+        "Blackmagic RAW Common Components"
+    ],
+    "Blizzard Entertainment": [
+        "NVIDIA FrameView SDK 1.3.8107.31782123",
+        "Hearthstone"
+    ],
+    "Epic Games, Inc.": [
+        "Microsoft Edge",
+        "Epic Games Launcher"
+    ],
+    "The Git Development Community": [
+        "Git"
+    ],
+    "VideoLAN": [
+        "VLC media player"
+    ],
+    "win.rar GmbH": [
+        "WinRAR 6.11 (64-разрядная)"
+    ],
+    "Oracle Corporation": [
+        "NVIDIA GeForce Experience 3.26.0.131"
+    ],
+    "GOG.com": [
+        "NVIDIA Системное программное обеспечение PhysX 9.21.0713"
+    ],
+    "None": [
+        "Среда выполнения Microsoft Edge WebView2 Runtime"
+    ],
+    "Nmap Project": [
+        "Blackmagic RAW Common Components"
+    ],
+    "OBS Project": [
+        "The Banner Saga"
+    ],
+    "Overwolf Ltd.": [
+        "Battle.net"
+    ],
+    "The Wireshark developer community, https://www.wireshark.org": [
+        "Hearthstone"
+    ]
+}

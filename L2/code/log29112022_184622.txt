@@ -1,0 +1,4 @@
+29-11-2022 18:46:28 Process Name: notepad.exe | ID: 9532 | Way: C:\Windows\system32\NOTEPAD.EXE 
+29-11-2022 18:46:40 Process Name: svchost.exe | ID: 3400 | Way: C:\Windows\system32\svchost.exe 
+29-11-2022 18:46:40 [BANNED] Process Name: mspaint.exe | ID: 9864 | Way: C:\Windows\system32\mspaint.exe 
+29-11-2022 18:46:40 [BANNED] Process Name: mspaint.exe | ID: 9864 | Way: C:\Windows\system32\mspaint.exe  Stoped
